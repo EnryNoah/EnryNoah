@@ -1,5 +1,5 @@
 <h2 align="center"><i>ENRY-NOAH</i></h1>
-<p align="center"><i> 🔪 Backend  enjoyer 🔪</i></p>
+<p align="center"><i> ⛹️‍♂️ Backend  enjoyer ⛹️‍♂️</i></p>
 <hr>
 
 ---
